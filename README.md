@@ -1,0 +1,1 @@
+# pi-hole-portugal-blocklist
